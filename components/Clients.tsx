@@ -1,8 +1,9 @@
 "use client";
 
+import { companies, testimonials } from "@/data/index";
 import React from "react";
 
-import { companies, testimonials } from "@/data";
+
 
 import { InfiniteMovingCards } from "./ui/InfiniteMovingCards";
 
